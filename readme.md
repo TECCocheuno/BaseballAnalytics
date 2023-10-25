@@ -29,3 +29,4 @@ STEPS TO DO ASSIGNMENT 4 because  my professor is such a nice guy
   21.  Copy the Python code into main.py.  Update the database connection information and run it.
   22.  The program when run should open up a CONSOLE window and display the results.
   23.  Push the files to GitHub.
+  24.  Create a Python APplication ACTION workflow tha thas the yaml file in it to execute whenever a change is pushed or pulled to/from Github.  THis provide the CI part of the CI/CD process.
